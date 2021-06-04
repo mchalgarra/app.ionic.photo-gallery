@@ -1,0 +1,7 @@
+{
+  "name": "app.ionic.photo-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
